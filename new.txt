@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>bức ảnh đẹp</h2>
+<p>nói gì về bức ảnh</p>
+<img src="http://4.bp.blogspot.com/-ifvrSkkyNO8/VlgNCr7a7cI/AAAAAAAADw4/LZzwmpZFqo8/s1600/Giao-Luu-Anh-Dep-Nha-Tho-Da-Sapa.jpg"width="400" height="auto"<br>
+
+<p><h1> nhà thờ đá ở sapa</h1></p><br>
+
+<a target="_blank" href="http://www.anhdep.pics/2015/11/giao-luu-anh-dep-nha-tho-da-sapa-anh.html"> xem thêm
+</body>
+</html>

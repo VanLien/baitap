@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="auto"
+<body>
+
+<h1>các thành phố lớn của các nước:</h1>
+
+<ul style="list-style-type:disc">
+
+<li><h3>Việt Nam</h3>
+  </li>
+</ul>
+
+<ol>
+  <li>Hà Nội</li>
+  <li>Hồ Chí Minh</li>
+  <li>Đà Nẵng</li>
+  <li>Huế</li>
+  
+</ol>
+<ul style="list-style-type:disc">
+
+<li>
+<h3>Hoa Kỳ</h3>
+  			</li>
+				</ul>
+<ol>
+  <li>New york </li>
+  <li>los Angeles</li>
+  <li>Chicago</li>
+  <li>Houston</li>
+
+</ol>
+<ul style="list-style-type:disc">
+  
+  <li>
+  <h3> Trung Quốc</h3></li>
+  </ul>
+<ol>
+<li>Beijing</li>
+<li>Chongqing</li>
+<li> Shanghai</li>
+</ol>
+
+</body>
+</html>

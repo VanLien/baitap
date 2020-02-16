@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang CV </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div>
+    <div class="header">
+        <div class="avatar">
+            <p>
+            <img src="https://image.freepik.com/free-vector/hacker-thief-avatar_18591-41899.jpg" align="left" width="200" height="200" alt="Vũ Văn...">
+            <h1 class="indent"> Vũ Văn ...</h1>
+            <h4 class="indent"><i>Nhân viên kinh doanh</i></h4>
+            <p class="indent">
+                <strong>Ngày sinh:</strong> <u>../../2020</u>
+                <br>
+                <strong>Giới tính:</strong> Nam
+                <br>
+                <strong>Điện thoại:</strong><u> viettel telecom</u>
+                <br>
+                <strong>Email:</strong> Vũ Văn...@gmail.com
+                <br>
+                <strong>Địa chỉ:</strong> <i>Ngõ cây Mít,đi tít vào trong Bấm chuông Tít Tít<br/> để gặp anh Mít.hỏi anh Mít Nhà Anh TÍT...:))
+            </p>
+        </div><!--end avatar-->
+    </div><!--end header-->
+    <div class="content">
+        <p>
+            <h2><strong>HỌC VẤN</strong></h2>
+        <hr class="blackLine"/>
+            <table border="1" cellpadding="30" cellspacing="0">
+<tr>
+   <td>STT</td>
+   <td>Học Vấn</td>
+   <td>kinh nghiệm</td>
+   <td>Dự Án</td>
+   <td>Các Hoạt Động</td>
+</tr>
+<tr>
+   <td>1</td>
+   <td>
+       <ul>
+          <li>....</li>
+          <li>....</li>
+          <li>....</li>
+       </ul>
+          </td>
+   <td>
+      <ul>
+          <li>....</li>
+          <li>....</li>
+          <li>....</li>
+       </ul>
+   </td>
+   <td>
+     <ul>
+          <li>....</li>
+          <li>....</li>
+          <li>....</li>
+     </ul>
+   </td>
+   <td>
+     <ul>
+          <li>....</li>
+          <li>....</li>
+          <li>....</li>
+     </ul>
+   </td>
+</tr>
+</table>
+</body>
+</html>
